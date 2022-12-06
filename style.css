@@ -1,27 +1,32 @@
 body{
-     background-color: rgb(230, 19, 166) #cccccc 
+     background-color: red;
 } 
 h1 {
     text-align: center;
 }
-p {
+p
+{
     text-align: center;
 }
-#Tanto {
+#Tanto 
+{
     color: blue;
-    text-aling: left;
+    text-align: left;
       
 }
-#download.jpg {
+#download.jpg
+{
     width:  100%;
 
 }
 
-#imagem2 {
+#imagem2 
+{
       width: 100%;
 }
 
-#imagem3 {
+#imagem3 
+{
     width: 100%;
 }
      
